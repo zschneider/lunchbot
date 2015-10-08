@@ -1,9 +1,9 @@
 {
-  "name": "lunchcrewbot",
+  "name": "lunchbot",
   "version": "0.0.0",
   "private": true,
   "author": "Zach <zschneider@pandora.com>",
-  "description": "A bot for the crew",
+  "description": "When you need lunch... ASAP",
   "dependencies": {
     "hubot": "^2.16.0",
     "hubot-diagnostics": "0.0.1",
