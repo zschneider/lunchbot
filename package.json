@@ -5,6 +5,7 @@
   "author": "Zach <zschneider@pandora.com>",
   "description": "When you need lunch... ASAP",
   "dependencies": {
+    "clark": "0.0.6",
     "hubot": "^2.16.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.2.2",
@@ -18,6 +19,7 @@
     "hubot-scripts": "^2.16.2",
     "hubot-shipit": "^0.2.0",
     "hubot-slack": "^3.3.0",
+    "underscore": "^1.8.3",
     "yelp": "^0.2.0"
   },
   "engines": {
